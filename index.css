@@ -695,6 +695,32 @@ form{
     }
 
 }
+
+@media(max-width:369px){
+
+    #logo2 {
+        padding-top: 12px;
+        margin-left: 295px;
+        
+    }
+}
+@media(max-width:357px){
+
+    #logo2 {
+        padding-top: 12px;
+        margin-left: 287px;
+    }
+}
+
+
+@media(max-width:351px){
+
+    #logo2 {
+        padding-top: 12px;
+        margin-left: 267px;
+        
+    }
+}
 @media screen and (max-width:321px){
     #logo2{
         padding-top: 12px;
